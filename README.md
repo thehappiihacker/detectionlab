@@ -13,8 +13,9 @@ In the realm of cybersecurity, applying and implementing security concepts can p
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- <b>Ubuntu</b>
 - <b>Windows Server 2019</b>
+- <b>Ubuntu</b>
+- <b>Ubuntu Server</b>
 - <b>Debian</b>
 - <b>Kali Linux</b>
 - <b>VMware Workstation Pro 17</b>
@@ -24,6 +25,8 @@ In the realm of cybersecurity, applying and implementing security concepts can p
 - <b>Splunk</b>
 - <b>Security Onion</b>
 - <b>Victim Network</b>
+- <b>pfSense</b>
+- <b>Universal Forwarder</b>
 
 <h2>Program walk-through:</h2>
 
